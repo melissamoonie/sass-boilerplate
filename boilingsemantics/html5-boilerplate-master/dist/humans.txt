@@ -1,0 +1,18 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Developer: Melissa Moonie
+    Twitter: Doesn't Exist
+    Website: creative.colorado,edu.~memo1581/aboutme.html
+    Location: Bouldahhh, CO
+
+# THANKS
+
+    World Wide Web peeps
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Apache Server Configs, jQuery, Modernizr, Normalize.css
